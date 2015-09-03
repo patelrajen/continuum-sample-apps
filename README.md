@@ -13,5 +13,3 @@ These sample apps show how to use a variety of different languages and framework
 Each sample is licensed under the MIT license unless otherwise specified.
 
 
-------------
-yes changed

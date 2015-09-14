@@ -1,4 +1,4 @@
-### Continuum Sample Apps  sample 234_345
+### Continuum Sample Apps  sample 234_345_678
 
 These sample apps show how to use a variety of different languages and frameworks with Continuum, demonstrating its diversity of workloads and developer-friendly features.
 
